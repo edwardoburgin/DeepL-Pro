@@ -1,4 +1,4 @@
-# How to Scrape Google Search Results for Free [2024 Edition]
+# How to Scrape Google Search Results for Free [2025 Edition]
 
 ## Introduction
 
