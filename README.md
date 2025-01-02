@@ -1,72 +1,136 @@
-# 免费体验DeepL高级会员，订阅DeepL Pro及申请DeepL API的详细教程
+# From Zero to One: A Step-by-Step Guide to E-commerce Data Analysis
 
-**文章浏览阅读841次，点赞15次，收藏19次。**
+## Introduction
 
-在全球化的今天，语言翻译工具的重要性无需多言。DeepL Pro以其卓越的准确性和流畅度，为我们提供了无障碍的沟通工具。如果你也想体验DeepL Pro的优质服务，订阅会员是你的最佳选择。
+When it comes to e-commerce, **Amazon** is often the first name that comes to mind. However, we cannot overlook the rapid growth of e-commerce businesses from other retail giants like Walmart. These companies have made tremendous strides in their online operations, creating a competitive environment in the industry.
 
-## 如何开通？
+Take Sephora, for example. Known for its twice-yearly 20% off sales, the brand’s e-commerce revenue has surged by **33.7% this year alone**. 
 
-本文将详细介绍如何利用[美国虚拟Visa信用卡](https://bit.ly/bewildcard)，一步步开通DeepL Pro翻译订阅会员。
+---
 
-![image](https://github.com/edwardoburgin/DeepL-Pro/assets/169967652/1a418437-cfcf-4ecb-a3d2-6f0ad630b803)
+**Stop wasting time on proxies and CAPTCHAs!**  
+ScraperAPI simplifies millions of web scraping requests, letting you focus on actionable data from Amazon, Google, Walmart, and more.  
+👉 [Start your free trial today!](https://www.scraperapi.com/?fp_ref=coupons)
 
+---
 
-### DeepL Pro的优势
+## The E-commerce Landscape
 
-DeepL Pro的翻译能力远超谷歌和微软等平台。中文翻译英文的准确度是谷歌和微软的5倍，英文翻译日文的准确度是其6倍。我很早就使用这个软件，当时因为DeepL没有国内的支付方式，只能找人代付。现在通过fomepay，小白也能轻松申请。这里使用的是5347开头的卡段。
+### U.S. E-commerce Growth
 
-[WildCard | 一分钟注册，轻松订阅海外线上服务 ](https://bit.ly/bewildcard)
+According to the latest **2019 Internet Retailer Top 1000 Report**, the top 1,000 online retailers in North America saw a **17.6% growth in e-commerce revenue** last year. Excluding Amazon, this growth still stood at **16.6%**.
 
-![image](https://github.com/user-attachments/assets/33426d18-839e-4dd9-bac2-d0448ef48042)
+The top five U.S. internet retailers are:
 
+1. **Amazon**  
+2. **Apple**  
+3. **Walmart**  
+4. **Dell**  
+5. **Macy's**
 
-### 开始订阅
+This rapid expansion in e-commerce has reshaped recruitment trends in the industry. Over the past 15 years, e-commerce-related positions have grown by an astounding **334%**.
 
-1. 访问DeepL官网，点击右上角的免费订阅，选择美国作为订阅国家，因为我们使用的是美元信用卡。
-2. 选择你想要订阅的套餐。新用户可以免费试用一个月，如果不想继续使用，请及时退订，避免不必要的损失。
-3. 为方便演示，这里选择一个最便宜的套餐，点击免费试用，输入你申请的[WildCard](https://bit.ly/bewildcard)上的账单地址、卡号、有效期、CVV等信息，然后点击继续。
+### Key Teams in E-commerce Departments
 
-![image](https://github.com/edwardoburgin/DeepL-Pro/assets/169967652/2437d520-09ce-45e5-9741-28acbc6df07c)
+Successful e-commerce operations often comprise several specialized teams:
 
+- **Product Team**: Manages e-commerce websites and apps, ensuring smooth functionality and alignment with company vision.  
+- **Merchandising Team**: Handles product descriptions, SKU management, and content accuracy.  
+- **Analytics Team**: Focuses on website analytics (e.g., Google Analytics), A/B testing, user segmentation, and predictive modeling.  
+- **Marketing Team**: Oversees CRM, loyalty programs, customer acquisition, SEO/SEM, email marketing, affiliate marketing, and social media campaigns.
 
-### 完成订阅
+Among these, **data analytics teams** are central to driving growth, optimizing acquisition, and retaining customers. Between 2019 and 2024, the demand for e-commerce analytics professionals is expected to increase by **20%**.
 
-1. 回到付款页面，点击下一步，核对账单地址，点击继续，再次确认付款项目，同意条款，点击付款。
-2. 付款成功后，我们已成功订阅pro会员。如果后续不想使用，可以在个人中心取消订阅。
+---
 
-![image](https://github.com/edwardoburgin/DeepL-Pro/assets/169967652/36e6a867-add5-4463-874f-370412107c95)
+## Becoming an E-commerce Data Analyst
 
+### Core Skills for E-commerce Analysts
 
-### 使用心得
+To excel in e-commerce analytics, professionals need a mix of standard analytical skills and **domain-specific knowledge**:
 
-DeepL Pro的Chrome扩展和Edge扩展非常好用，可翻译整个网页和邮件，极大提高了阅读速度和工作效率。除了DeepL Pro，DeepL还提供API，方便将其集成到自己的网站和软件中。例如BOb是一款macOS平台的翻译和OCR软件，可以调用多种翻译平台的API。
+1. **Industry Knowledge**: Understanding KPIs, business models, and unique challenges in e-commerce.  
+2. **Tools and Platforms**: Familiarity with tools like Segment, Mixpanel, Amplitude, Kissmetrics, Heap Analytics, Google Analytics, and Adobe Analytics.
 
-### DEEPL API申请
+---
 
-我们可以使用美国虚拟信用卡申请DEEPL API，包括DEEPL API FREE和DEEPL API Pro。具体区别如下：
+### Real-World Examples: Grubhub & Gucci
 
-| 服务          | 免费额度       | 超出免费额度           | 并发请求数 |
-|---------------|----------------|------------------------|------------|
-| DEEPL API FREE | 每月50万字符    | 禁止使用               | –          |
-| DEEPL API Pro  | 无免费额度      | 每月5.49美元基础费用 + 25美元/100万字符 | –          |
+Let’s examine the roles and responsibilities of e-commerce analysts at **Grubhub** and **Gucci**.
 
-如果使用量较大，可以考虑DeepL API Business，需要与DeepL洽谈。需要注意的是，你不能同时使用DeepL Pro和DeepL API，需要使用两个不同的账户。
+#### Grubhub E-commerce Analyst:
 
-![image](https://github.com/edwardoburgin/DeepL-Pro/assets/169967652/91b05c22-24f5-4282-a634-2489e300a5c7)
+- Identifies optimization opportunities for product and marketing teams.  
+- Manages tracking systems to measure product performance.  
+- Designs tagging methods and collaborates with engineering teams to implement A/B testing.  
+- Presents insights through dashboards and post-analysis reports.  
 
+#### Gucci E-commerce Analyst:
 
-DeepL使用Stripe支付网关，DEEPL API Free订阅完全免费，可随时升级到DEEPL API Pro。
+- Tracks and analyzes KPIs to understand sales drivers.  
+- Standardizes team reporting with key performance metrics.  
+- Optimizes website performance, customer segmentation, and sales funnels.  
+- Executes clickstream analysis and A/B testing to improve digital marketing and website planning.
 
-你可以随时在“你的DeepL账户”菜单取消你的DeepL API计划，防止产生不必要的扣费和拒付记录（虚拟信用卡余额不足）。
+---
 
-获取密钥：打开【DeepL账户】页面，可以在页面左下角看到一个默认创建的密钥，也可以创建新的密钥。
+## Course Offering: "From Zero to One - A Beginner’s Guide to E-commerce Data Analysis"
 
-![image](https://github.com/edwardoburgin/DeepL-Pro/assets/169967652/8aa722dc-89c0-4955-b78e-1c220d92a825)
+To help professionals break into this dynamic field, MarTechApe has partnered with the Senior Analytics Manager at **Moda Operandi**, a leading U.S. luxury e-commerce company. Together, they offer a **comprehensive course** designed to teach you the essential skills and knowledge for e-commerce analytics.
 
-拿到密钥后，填写到软件中的对应位置，开始使用DeepL的高效翻译服务。
+### Course Outline
 
-DeepL Write还可以完善你的写作，功能包括：
-1. 修复语法和标点错误
-2. 选择你的翻译方式
-3. 创造性地改写整个句子
-4. 通过Write建议的改写方式获取准确的措辞
+#### **L1: Introduction to E-commerce Analytics**
+
+- Data-Informed vs. Data-Driven Decisions  
+- Product Analytics Frameworks  
+- Business Model Playbook  
+- Case Studies  
+
+#### **L2: E-commerce Tools and Platforms**
+
+- Traffic Tracking Tools (UTM, Google Analytics)  
+- Clickstream Event Analysis  
+- Product Intelligence Platforms  
+- Self-Service BI Tools  
+
+#### **L3-4: Key E-commerce KPIs**
+
+- KPIs for Customer Acquisition, Funnel Engagement, and Retention  
+- Offline vs. Online KPIs  
+- KPI Best Practices  
+
+#### **L5: Advanced Analytics Techniques**
+
+- A/B Testing: Best Practices  
+- Cohort and Cluster Analysis  
+- Calculating Customer Lifetime Value  
+
+#### **L6: Beyond Data**
+
+- Collaboration with Product Managers  
+- Evaluating Financial Uplift  
+- Marketing Analysis within Product Teams  
+
+#### **L7: Building a Career in E-commerce Analytics**
+
+- Job Search Strategies  
+- Cracking BI Analyst/Data Analyst Interviews  
+- What to Expect in E-commerce Analytics Roles  
+
+---
+
+### About the Instructor
+
+**Sunny**: Senior Analytics Manager at Moda Operandi with 6 years of experience in the U.S. data analytics industry.
+
+---
+
+### Course Features
+
+- **On-Demand Lessons**: Access recordings anytime, anywhere.  
+- **Tailored for U.S. Users**: Stream without latency on high-speed servers.  
+- **Interactive Learning**: Join a dedicated e-commerce analytics group to discuss topics with the instructor.  
+- **Comprehensive Materials**: Gain access to course slides, readings, and additional resources.
+
+**Stay competitive in the workforce—join us at MarTechApe to start your journey in e-commerce analytics!**
