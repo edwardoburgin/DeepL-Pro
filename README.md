@@ -6,7 +6,7 @@
 
 ## 如何开通？
 
-本文将详细介绍如何利用[美国虚拟Visa信用卡](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)，一步步开通DeepL Pro翻译订阅会员。
+本文将详细介绍如何利用[美国虚拟Visa信用卡](https://bit.ly/bewildcard)，一步步开通DeepL Pro翻译订阅会员。
 
 ![image](https://github.com/edwardoburgin/DeepL-Pro/assets/169967652/1a418437-cfcf-4ecb-a3d2-6f0ad630b803)
 
@@ -15,16 +15,16 @@
 
 DeepL Pro的翻译能力远超谷歌和微软等平台。中文翻译英文的准确度是谷歌和微软的5倍，英文翻译日文的准确度是其6倍。我很早就使用这个软件，当时因为DeepL没有国内的支付方式，只能找人代付。现在通过fomepay，小白也能轻松申请。这里使用的是5347开头的卡段。
 
-[免KYC快捷注册通道](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
+[WildCard | 一分钟注册，轻松订阅海外线上服务 ](https://bit.ly/bewildcard)
 
-![image](https://github.com/edwardoburgin/DeepL-Pro/assets/169967652/cd6d4f8f-64b9-40fb-9b1d-7e01f023f665)
+![image](https://github.com/user-attachments/assets/33426d18-839e-4dd9-bac2-d0448ef48042)
 
 
 ### 开始订阅
 
 1. 访问DeepL官网，点击右上角的免费订阅，选择美国作为订阅国家，因为我们使用的是美元信用卡。
 2. 选择你想要订阅的套餐。新用户可以免费试用一个月，如果不想继续使用，请及时退订，避免不必要的损失。
-3. 为方便演示，这里选择一个最便宜的套餐，点击免费试用，输入你申请的[fomepay VISA卡](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)上的账单地址、卡号、有效期、CVV等信息，然后点击继续。
+3. 为方便演示，这里选择一个最便宜的套餐，点击免费试用，输入你申请的[WildCard](https://bit.ly/bewildcard)上的账单地址、卡号、有效期、CVV等信息，然后点击继续。
 
 ![image](https://github.com/edwardoburgin/DeepL-Pro/assets/169967652/2437d520-09ce-45e5-9741-28acbc6df07c)
 
